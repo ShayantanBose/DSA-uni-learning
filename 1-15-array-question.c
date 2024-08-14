@@ -1,11 +1,21 @@
 #include <stdio.h>
 
-
+void DeleteElem(int arr[], int size, int elem, int position){
+    printf("Enter the element of the matrix you want to delete:- ");
+    scanf("%d", &elem);
+    if(position<0 || position>=size){
+        printf("Invalid Position");
+    }
+    for(int i=position;i<size;i++){
+        arr[i]=arr[i+1];
+    }
+    size--;
+};
 
 void InsertElem(int arr[],int size, int elem, int position){
     printf("Enter the element of the matrix :- ");
     scanf("%d", &elem);
-    if(position==0 || position>size){
+    if(position<0 || position>size){
         printf("Invalid Position");
     }
     for(int i=size;i>position;i--){
@@ -48,6 +58,16 @@ int main(){
         InsertElem(arr,size,elem,position);
     }
 
+    printf("Enter Y if you want to delete element in the array:- ");
+    scanf("%d", &input);
+
+    if(input=='Y'){
+        printf("Enter which position do you want to change in:- ");
+        scanf("%d", &position);
+        printf("Enter the elem you wanted to delete:- ");
+        scanf("%d", &elem);
+        DeleteElem(arr,size,elem,position);
+    }
 
     printarray(arr,size);
 }
