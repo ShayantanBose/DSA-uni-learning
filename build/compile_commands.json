@@ -1,0 +1,222 @@
+[
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\euler.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\euler.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/euler.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\affine.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\affine.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/affine.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\io.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\io.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/io.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\quat.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\quat.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/quat.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\cam.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\cam.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/cam.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\vec2.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\vec2.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/vec2.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\ivec2.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\ivec2.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/ivec2.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\vec3.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\vec3.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/vec3.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\ivec3.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\ivec3.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/ivec3.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\vec4.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\vec4.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/vec4.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\ivec4.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\ivec4.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/ivec4.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat2.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat2.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat2.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat2x3.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat2x3.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat2x3.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat2x4.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat2x4.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat2x4.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat3.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat3.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat3.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat3x2.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat3x2.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat3x2.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat3x4.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat3x4.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat3x4.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat4.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat4.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat4.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat4x2.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat4x2.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat4x2.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\mat4x3.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\mat4x3.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/mat4x3.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\plane.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\plane.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/plane.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\frustum.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\frustum.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/frustum.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\box.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\box.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/box.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\project.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\project.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/project.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\sphere.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\sphere.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/sphere.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\ease.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\ease.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/ease.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\curve.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\curve.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/curve.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\bezier.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\bezier.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/bezier.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\ray.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\ray.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/ray.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\affine2d.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\affine2d.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/affine2d.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\ortho_lh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/ortho_lh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\ortho_lh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/ortho_lh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\ortho_rh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/ortho_rh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\ortho_rh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/ortho_rh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\persp_lh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/persp_lh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\persp_lh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/persp_lh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\persp_rh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/persp_rh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\persp_rh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/persp_rh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\view_lh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/view_lh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\view_lh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/view_lh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\view_rh_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/view_rh_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\view_rh_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/view_rh_zo.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\project_no.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\project_no.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/project_no.c"
+},
+{
+  "directory": "D:/codes/c c++/build",
+  "command": "D:\\utils\\msys64\\ucrt64\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -g -Wall -std=gnu11 -o CMakeFiles\\cglm.dir\\src\\clipspace\\project_zo.c.obj -c \"D:\\codes\\c c++\\sample\\cglm\\src\\clipspace\\project_zo.c\"",
+  "file": "D:/codes/c c++/sample/cglm/src/clipspace/project_zo.c"
+}
+]

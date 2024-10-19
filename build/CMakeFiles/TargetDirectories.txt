@@ -1,0 +1,9 @@
+D:/codes/c c++/build/CMakeFiles/cglm.dir
+D:/codes/c c++/build/CMakeFiles/rebuild_cache.dir
+D:/codes/c c++/build/CMakeFiles/package.dir
+D:/codes/c c++/build/CMakeFiles/package_source.dir
+D:/codes/c c++/build/CMakeFiles/install/local.dir
+D:/codes/c c++/build/CMakeFiles/install.dir
+D:/codes/c c++/build/CMakeFiles/edit_cache.dir
+D:/codes/c c++/build/CMakeFiles/list_install_components.dir
+D:/codes/c c++/build/CMakeFiles/install/strip.dir
