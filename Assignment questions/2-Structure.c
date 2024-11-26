@@ -9,8 +9,8 @@ struct Book {
 };
 
 int main() {
-    struct Book books[3]; 
-    struct Book *bks; 
+    struct Book books[3];
+    struct Book *bks;
     for (bks = books; bks < books + 3; bks++) {
         printf("Enter details for a book %d:\n");
 
@@ -41,7 +41,3 @@ int main() {
     printf("Price: %.2f\n", books[leastprice].price);
     return 0;
 }
-
-
-
-

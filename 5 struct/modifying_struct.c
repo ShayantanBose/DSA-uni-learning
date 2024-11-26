@@ -27,7 +27,7 @@ void InsertStruct(struct Student **std, int *capacity, int *count, int ID, const
     }
     (*std)[*count].ID = ID;
     strncpy((*std)[*count].Name, Name, MAX_TITLE - 1);
-    (*std)[*count].Name[MAX_TITLE - 1] = '\0'; 
+    (*std)[*count].Name[MAX_TITLE - 1] = '\0';
     (*std)[*count].Percentage = Percentage;
 
     (*count)++;
